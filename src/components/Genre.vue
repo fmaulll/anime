@@ -10,7 +10,6 @@ defineProps({
 </template>
 <style scoped>
 .genre-container {
-    /* width: min-content; */
   border-radius: 16px;
   border: 2px solid #004d51;
   background-color: #5ce1ff;
